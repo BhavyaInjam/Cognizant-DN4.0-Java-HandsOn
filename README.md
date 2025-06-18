@@ -2,9 +2,13 @@
 
 This repository contains Java hands-on solutions for Cognizant Digital Nurture 4.0 training.
 
-## ✅ Module 1 - Design Patterns
+## ✅ Module 1 - Design Patterns & Principles
 
-- Singleton Pattern ✅
-- Factory Method Pattern ✅
+- **Singleton Pattern:** Implemented using private constructor and static instance
+- **Factory Method Pattern:** Demonstrated with Word, PDF, and Excel document factories
 
-More modules will be added weekly.
+Each folder includes:
+- Java source code
+- Output screenshot for verification
+
+> More modules will be added weekly.
