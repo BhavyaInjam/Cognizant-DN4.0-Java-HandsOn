@@ -2,7 +2,7 @@
 
 This repository contains Java hands-on solutions for Cognizant Digital Nurture 4.0 training program.
 
-## ✅ Module 1 - Design Patterns & Principles
+## ✅ WEEK 1 - Design Patterns & Principles
 
 - Patterns Implemented:
   - **Singleton Pattern**
