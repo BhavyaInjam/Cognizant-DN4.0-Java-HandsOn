@@ -33,6 +33,31 @@ All content (code, explanations, output screenshots, complexity analysis) is inc
 -Submission Format:
 Solutions (code + output screenshots) are compiled into:  
 **`Week2_PLSQL_programming_HandsOn.docx`**
+
+## ✅ WEEK 2 - TDD using JUnit and Mockito
+
+-Topics Covered:
+- **JUnit**:
+  - Exercise 1: Setting Up JUnit  
+  - Exercise 3: Assertions in JUnit  
+  - Exercise 4: Arrange-Act-Assert (AAA) Pattern, Test Fixtures, Setup and Teardown Methods  
+- **Mockito**:
+  - Exercise 1: Mocking and Stubbing  
+  - Exercise 2: Verifying Interactions
+
+-Submission Format:  
+This document includes solutions for test-driven development exercises using JUnit and Mockito:  
+**`Week2_TDD using JUnit and Mockito_HandsOn.docx`**
+
+## ✅ WEEK 2 - SLF4J Logging Framework
+
+-Topics Covered:
+- Exercise 1: Logging Error Messages and Warning Levels using SLF4J and Logback
+
+-Submission Format:  
+Code and console output screenshots are included in the following document:  
+**`Week2_SLF4J logging framework_HandsOn.docx`**
+
   
 > More modules will be added weekly as training progresses.
 
