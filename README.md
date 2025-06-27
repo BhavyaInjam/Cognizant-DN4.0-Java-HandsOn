@@ -10,7 +10,7 @@ This repository contains Java hands-on solutions for Cognizant Digital Nurture 4
 
 - Submission Format:  
   The solutions for both patterns (code + output screenshots) are included in a single Word document:
-  **`Week1_Design Patterns and Principles_HandsOn.docx`**
+  **`Week1_Design-Patterns-and-Principles_HandsOn.docx`**
   
 ## ✅ WEEK 1 - Data Structures and Algorithms
 
@@ -32,7 +32,7 @@ All content (code, explanations, output screenshots, complexity analysis) is inc
 
 -Submission Format:
 Solutions (code + output screenshots) are compiled into:  
-**`Week2_PLSQL_programming_HandsOn.docx`**
+**`Week2_PLSQL programming_HandsOn.docx`**
 
 ## ✅ WEEK 2 - TDD using JUnit and Mockito
 
