@@ -58,6 +58,17 @@ This document includes solutions for test-driven development exercises using JUn
 Code and console output screenshots are included in the following document:  
 **`Week2_SLF4J logging framework_HandsOn.docx`**
 
+## ✅  WEEK 3 – Spring Core and Maven
+Topics Covered:
+Exercise 1: Configuring a Basic Spring Application
+
+Exercise 2: Implementing Dependency Injection
+
+Exercise 4: Creating and Configuring a Maven Project
+
+Submission Format:
+All exercises are documented in detail with code, XML configuration, and output screenshots in the following file:
+**'Week3_Spring Core and Maven_HandsOn.docx'**
   
 > More modules will be added weekly as training progresses.
 
