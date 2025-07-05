@@ -69,6 +69,19 @@ Exercise 4: Creating and Configuring a Maven Project
 Submission Format:
 All exercises are documented in detail with code, XML configuration, and output screenshots in the following file:
 **'Week3_Spring Core and Maven_HandsOn.docx'**
+
+## ✅ WEEK 3 – Spring Data JPA with Spring Boot and Hibernate
+Topics Covered:
+
+Introduction to ORM and JPA
+
+Difference between JPA, Hibernate, and Spring Data JPA
+
+Implementing data persistence using both Hibernate and Spring Data JPA
+
+Submission Format:
+Includes theoretical explanations, code comparisons, and console output screenshots:
+**'Week3_Spring Data JPA with Spring Boot, Hibernate_HandsOn.docx'**
   
 > More modules will be added weekly as training progresses.
 
