@@ -82,6 +82,26 @@ Implementing data persistence using both Hibernate and Spring Data JPA
 Submission Format:
 Includes theoretical explanations, code comparisons, and console output screenshots:
 **'Week3_Spring Data JPA with Spring Boot, Hibernate_HandsOn.docx'**
+## ✅ WEEK 4 – Spring REST using Spring Boot 3
+Topics Covered:
+
+Creating RESTful Web Services with Spring Boot
+
+Using @RestController, @RequestMapping, and @GetMapping
+
+Reading beans from XML using ApplicationContext
+
+Returning JSON responses using Jackson
+
+Creating REST APIs for:
+Hello World
+Returning hard-coded bean
+Returning country based on path variable
+Testing APIs via browser and Postman
+
+Submission Format:
+All REST exercises, outputs, logs, and screenshots are compiled in:
+**'Week4_Spring REST using Spring Boot 3_HandsOn.docx'**
   
 > More modules will be added weekly as training progresses.
 
