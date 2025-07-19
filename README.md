@@ -102,6 +102,16 @@ Testing APIs via browser and Postman
 Submission Format:
 All REST exercises, outputs, logs, and screenshots are compiled in:
 **'Week4_Spring REST using Spring Boot 3_HandsOn.docx'**
+
+## ✅ WEEK 5 – Microservices with Spring Boot 3 and Spring Cloud
+
+Topics Covered:
+
+Creating Microservices for account and loan
+Submission Format:
+All exercises, outputs, logs, and screenshots are compiled in:
+**'Week5_Microservices with Spring Boot 3 and Spring Cloud_HandsOn.docx'**
+
   
 > More modules will be added weekly as training progresses.
 
