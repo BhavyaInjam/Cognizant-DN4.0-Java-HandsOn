@@ -114,6 +114,22 @@ Submission Format:
 All exercises, outputs, logs, and screenshots are compiled in:
 **'Week5_Microservices with Spring Boot 3 and Spring Cloud_HandsOn.docx'**
 
+## ✅ WEEK 6 – React JS
+Topics Covered:
+
+Functional Components
+
+Class Components
+
+JSX and Props
+
+Fetch API integration
+
+Building basic UI with state and event handling
+
+Submission Format:
+All exercises, code screenshots, output, and explanations are included in:
+**'Week6_React-JS_Hands-On.docx'**
   
 > More modules will be added weekly as training progresses.
 
