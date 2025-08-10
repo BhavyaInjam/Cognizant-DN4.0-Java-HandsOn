@@ -136,7 +136,12 @@ Submission Format:
 All exercises, code screenshots, output, and explanations are included in:
 **'Week7_React-JS_Hands-On.docx'**
 
-> More modules will be added weekly as training progresses.
+## ✅ WEEK 8 – GIT
+Submission Format:
+All exercises, Screenshots, output, and explanations are included in:
+**'Week8_Git_Hands-On.docx'**
+
+
 
 Author
 **Bhavya Injam**
